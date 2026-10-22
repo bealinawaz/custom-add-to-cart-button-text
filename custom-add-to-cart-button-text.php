@@ -13,7 +13,7 @@
  * License URI:          https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:          custom-add-to-cart-button-text
  * WC requires at least: 7.1
- * WC tested up to:      10.3
+ * WC tested up to:      11.2
  *
  * @package Custom_Add_To_Cart_Button_Text
  */
